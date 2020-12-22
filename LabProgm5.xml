@@ -1,0 +1,33 @@
+<?xml-stylesheet type="text/css" href="LabProgram5.css"?>
+
+<html>
+    <head>
+        <h1> STUDENT DESCRIPTION</h1>
+    </head>
+    <students>
+        <student>
+            <usn>USN:4SU17CS001</usn>
+            <name>NAME:Anu</name>
+            <college>COLLEGE:SDMIT</college>
+            <branch>BRANCH:CSE</branch>
+            <year>YEAR:2017</year>
+            <email>EMAIL:anu@gmail.com</email>
+        </student>
+        <student>
+            <usn>USN:4SU17CS002</usn>
+            <name>NAME:Bhavya</name>
+            <college>COLLEGE:SDMIT</college>
+            <branch>BRANCH:CSE</branch>
+            <year>YEAR:2017</year>
+            <email>EMAIL:bhavya@gmail.com</email>
+        </student>
+        <student>
+            <usn>USN:4SU17CS003</usn>
+            <name>NAME:Chinmayi</name>
+            <college>COLLEGE:SDMIT</college>
+            <branch>BRANCH:CSE</branch>
+            <year>YEAR:2017</year>
+            <email>EMAIL:chinmayi@gmail.com</email>
+        </student>
+    </students>
+</html>
